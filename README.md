@@ -27,12 +27,11 @@ Race Arena helps visualize how CPU scheduling algorithms work and how their choi
 
 ## Live Demo
 
-[Visit Race Arena]
 https://race-arena-three.vercel.app/
 
 ## Repository
 
-[View Source Code](https://github.com/sp-here2947/race-arena)
+https://github.com/sp-here2947/race-arena.git
 
 ---
 
